@@ -10,7 +10,7 @@ Also, to determine how strong are those relations and whether it's possible and 
 n addition, I want to give some advice that will help to somehow improve academic performance.
 
 ## Data
-[Dataset Sleepstady download link](https://www.lock5stat.com/datapage1e.html)
+[Dataset Sleepstudy download link](https://www.lock5stat.com/datapage1e.html)
 
 [Dataset description](https://rdrr.io/cran/Lock5withR/man/SleepStudy.html#heading-3)
 
